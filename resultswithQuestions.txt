@@ -1,0 +1,604 @@
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: gydfgyug
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: a
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: s
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: c
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: c
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: cas
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: python
+Status: Correct
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: sccccccccccccs
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: a
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 10080
+Status: Correct
+
+Question: How many periods are there in a periodic table?
+User Answer: 118
+Status: Correct
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: Squid Game
+Status: Correct
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: Paris
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: Paris
+Status: Correct
+
+Question: Who is the current President of the United States?
+User Answer: Joe Biden
+Status: Correct
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: Finland
+Status: Correct
+
+Question: What is the simpliest and easiest programming language?
+User Answer: Python
+Status: Correct
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: Finland
+Status: Correct
+
+Question: What is the simpliest and easiest programming language?
+User Answer: Python
+Status: Correct
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: Microsoft
+Status: Correct
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 10080
+Status: Correct
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: Finland
+Status: Correct
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: Microsoft
+Status: Correct
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: dDW
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 
+Status: Incorrect
+
+Question: What is the capital of France?
+User Answer: 
+Status: Incorrect
+
+Question: Who is the current President of the United States?
+User Answer: 
+Status: Incorrect
+
+Question: What is the largest planet in our solar system?
+User Answer: 
+Status: Incorrect
+
+Question: How many minutes are in a full week?
+User Answer: 
+Status: Incorrect
+
+Question: How many periods are there in a periodic table?
+User Answer: 
+Status: Incorrect
+
+Question: What country drinks the most coffee per capita?
+User Answer: 
+Status: Incorrect
+
+Question: What is the simpliest and easiest programming language?
+User Answer: 
+Status: Incorrect
+
+Question: What Netflix show had the most streaming views in 2021?
+User Answer: 
+Status: Incorrect
+
+Question: What software company is headquartered in Redmond Washington?
+User Answer: 
+Status: Incorrect
+
+Question: How many faces does the Ravana had?
+User Answer: 10
+Status: Correct
+

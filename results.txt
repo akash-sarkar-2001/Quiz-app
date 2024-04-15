@@ -1,0 +1,3 @@
+Number of correct answers: 1
+Total questions: 10
+Score: 10.0%
